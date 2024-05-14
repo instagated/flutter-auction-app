@@ -21,7 +21,7 @@ Flutter Online Auction App is a mobile application built with Flutter. It allows
 - Switch Dark & Light Theme
 - User Profile
 
-See also: [Online Auction App Backend](https://github.com/ikhsan3adi/ci4_online_auction_api)
+See also: [Online Auction App Backend](https://github.com/ikhsan3adi/auction_app_api_ci4)
 
 ## Screenshots
 
@@ -46,6 +46,9 @@ See also: [Online Auction App Backend](https://github.com/ikhsan3adi/ci4_online_
 - Internet connection
 
 ### How to run the App
+
+0. Setup backend service:
+> https://github.com/ikhsan3adi/auction_app_api_ci4
 
 1. Run `flutter pub get` on main project
 
