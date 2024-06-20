@@ -82,6 +82,9 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^4.0.0
+  bdd_widget_test: ^1.2.1
+  flutter_driver:
+    sdk: flutter
 
 flutter_launcher_icons:
   android: "launcher_icon"
